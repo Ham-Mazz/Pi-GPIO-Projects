@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import RPi.GPIO as GPIO  #the pin libaray of raspberry
+import RPi.GPIO as GPIO  #the pin libaray of raspberry pi4
 import time  #the time libaray of system time
 LedPin = 17  #the BCM pin connect to LED
 def setup():
